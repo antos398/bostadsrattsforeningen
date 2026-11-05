@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--bostadsrttsfreningen-izb41b.se/sitemap.xml
